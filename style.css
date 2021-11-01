@@ -96,3 +96,29 @@ hr {
 #skill-section p ul li {
   margin-left: 50px;
 }
+/* skill section */
+
+#education-section {
+}
+
+.edu-template-left {
+  float: left;
+  width: 45%;
+}
+.edu-template-right {
+  float: right;
+  width: 45%;
+}
+/* refference section */
+
+#reference-section {
+}
+
+.ref-template-left {
+  float: left;
+  width: 45%;
+}
+.ref-template-right {
+  float: right;
+  width: 45%;
+}
